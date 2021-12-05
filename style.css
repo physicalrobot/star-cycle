@@ -21,13 +21,13 @@ form{
 
 #pagenavigation{
     display: flex;
-    justify-content: center;
+    justify-content: start;
 
 }
 
 #pagenavigation.ul{
     text-size-adjust: smaller;
     text-align:start;
-    
+
 
 }
