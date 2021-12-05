@@ -20,12 +20,12 @@ form{
 }
 
 #pagenavigation{
-    display:grid;
-    place-items:center;
+    width:70%;
+    margin:auto;
+
 }
 
 #pagenavigation.ul{
-    text-align:left;
     text-size-adjust: smaller;
 
 }
