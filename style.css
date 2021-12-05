@@ -1,6 +1,17 @@
-body{
-    text-align:justify;
+html, body {
+    height: 100%;
 }
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
 form{
     display: inline-block;
 }
@@ -8,4 +19,6 @@ form{
 #pagenavigation{
     display:grid;
     place-items:center
+
+
 }
