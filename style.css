@@ -27,5 +27,7 @@ form{
 
 #pagenavigation.ul{
     text-size-adjust: smaller;
+    text-align:start;
+    
 
 }
