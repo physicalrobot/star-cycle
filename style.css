@@ -13,8 +13,8 @@ html{
 /*heading and navigation */
 #websiteheader{
     text-align: center;
-    color:white;
-    
+    color:whitesmoke;
+
 
 }
 
@@ -51,5 +51,11 @@ p.content{
 
 }
 
+h1{
+    color:aqua
+}
 
+img{
+    width: 400px
 
+}
