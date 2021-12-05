@@ -5,7 +5,7 @@ form{
     display: inline-block;
 }
 
-ul{
-    text-align:center;
-    list-style:inside;
+#pagenavigation{
+    display:grid;
+    place-items:center
 }
