@@ -18,10 +18,14 @@ form{
 }
 
 
+#websiteheader{
+    display:grid;
+    place-items:center;
+}
 
 #pagenavigation{
     display:grid;
-    place-items:center
+    place-items:center;
 }
 
 #pagenavigation.ul{
