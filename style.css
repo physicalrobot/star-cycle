@@ -9,12 +9,24 @@ html{
     background-image: url("https://wallpapercave.com/wp/EhjP78R.jpg")
 
 }
+a:link{
+    color:white
+}
+
+a:hover{
+    color:pink
+}
+
+a:visited{
+    color:aqua
+}
 
 /*heading and navigation */
 #websiteheader{
     text-align: center;
     color:whitesmoke;
-
+    font-size: 80px;
+    font-family: 'Space Mono', monospace;
 
 }
 
@@ -30,6 +42,8 @@ html{
     line-height:200%;
     font-weight: bold;
     color:aqua;
+    font-size:40px;
+
 
 
 }
@@ -47,12 +61,15 @@ body {
 p.content{
     text-align:left;
     color: white;
+    font-size:25 px;
 
 
 }
 
 h1{
-    color:aqua
+    color:aqua;
+    font-size:50px;
+
 }
 
 img{
