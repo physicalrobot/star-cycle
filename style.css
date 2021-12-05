@@ -4,3 +4,9 @@ body{
 form{
     display: inline-block;
 }
+
+ul{
+    display:table;
+    margin :0 auto;
+
+}
