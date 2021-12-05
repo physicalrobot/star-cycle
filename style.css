@@ -10,11 +10,14 @@ html {
 body {
     display: table-cell;
     vertical-align: middle;
+    align-items: center;
 }
 
 form{
     display: inline-block;
 }
+
+
 
 #pagenavigation{
     display:grid;
@@ -24,5 +27,5 @@ form{
 #pagenavigation.ul{
     text-align:start;
     text-size-adjust: smaller;
-    
+
 }
