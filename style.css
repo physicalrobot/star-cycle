@@ -11,7 +11,7 @@ body {
     display: table-cell;
     vertical-align: middle;
     align-items: center;
-    text-align:center;
+    text-align:start;
 }
 
 form{
