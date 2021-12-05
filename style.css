@@ -19,6 +19,10 @@ form{
 #pagenavigation{
     display:grid;
     place-items:center
+}
 
-
+#pagenavigation.ul{
+    text-align:start;
+    text-size-adjust: smaller;
+    
 }
