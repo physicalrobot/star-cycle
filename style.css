@@ -11,9 +11,12 @@ body {
     display: table-cell;
     vertical-align: middle;
     align-items: center;
-    text-align:start;
+    text-align:center;
 }
+p.content{
+    text-align:left;
 
+}
 form{
     display: inline-block;
 }
@@ -29,7 +32,7 @@ form{
 }
 
 #pagenavigation.ul{
-    text-align:start;
+    text-align:justify;
     text-size-adjust: smaller;
 
 }
