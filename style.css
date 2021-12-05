@@ -19,8 +19,7 @@ form{
 
 
 #websiteheader{
-    display:grid;
-    place-items:center;
+    text-align: center;
 }
 
 #pagenavigation{
